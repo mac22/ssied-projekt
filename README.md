@@ -1,4 +1,4 @@
 ssied-projekt
 =============
 
-SSiED - projekt strony www.
+SSiED - projekt. Strony www.

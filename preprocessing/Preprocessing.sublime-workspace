@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"drawing",
+				"drawingCanvas"
+			],
+			[
+				"document",
+				"documentControls"
+			],
+			[
+				"setA",
+				"setAttributesAlias"
+			],
+			[
+				"abo",
+				"absoluteInputControl"
+			],
+			[
+				"onFo",
+				"onFontColorChange"
+			],
+			[
+				"onFon",
+				"onFontSizeChange"
+			],
+			[
+				"onF",
+				"onFontFamilyChange"
+			],
+			[
+				"get",
+				"getFontFamily"
+			],
+			[
+				"getFo",
+				"getFontSize"
+			],
+			[
+				"font",
+				"fontColorEl"
+			],
+			[
+				"fon",
+				"fontSizeEl"
+			],
+			[
+				"po",
+				"positionY"
+			],
+			[
+				"pos",
+				"positionX"
+			],
+			[
+				"ab",
+				"absoluteInputControl"
+			],
+			[
+				"abso",
+				"absoluteInputControl"
+			],
+			[
+				"Sma",
+				"SmallOffsetY"
+			],
+			[
+				"absol",
+				"absoluteInputControl"
+			],
+			[
+				"abs",
+				"absoluteInputControl"
+			],
+			[
+				"posit",
+				"positionY"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Text",
+				"TextToolView"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"annotatio",
+				"annotationsEl"
+			],
+			[
+				"colorP",
+				"colorPicker"
+			],
+			[
+				"getEr",
+				"getEraserWidth"
+			],
+			[
+				"brush",
+				"brushWidthEl"
+			],
+			[
+				"color",
+				"colorPicker"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"t",
+				"textToolParametersEl"
+			],
+			[
+				"bru",
+				"brushParametersEl"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"annto",
+				"annotationsContext"
+			],
+			[
+				"eras",
+				"eraserState"
+			],
+			[
+				"ann",
+				"annotationsContext"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"set",
+				"setIfExists"
+			],
+			[
+				"new",
+				"newAttributes"
+			],
+			[
+				"annota",
+				"annotationView"
+			],
+			[
+				"page",
+				"pageNumberEl"
+			],
+			[
+				"fileNam",
+				"fileNameEl"
+			],
+			[
+				"on",
+				"onBrushWidthChange"
+			],
+			[
+				"actual",
+				"actualAnnotation"
+			],
+			[
+				"actu",
+				"actualPage"
+			],
+			[
+				"actua",
+				"actualAnnotation"
+			],
+			[
+				"ac",
+				"actualAnnotation"
+			],
+			[
+				"handle",
+				"handleLoadedPage"
+			],
+			[
+				"load",
+				"loadPage"
+			],
+			[
+				"pdf",
+				"pdfjs"
+			],
+			[
+				"Ann",
+				"AnnotationsList"
+			],
+			[
+				"anno",
+				"annotation"
+			],
+			[
+				"getPage",
+				"getPageNum"
+			],
+			[
+				"canvas",
+				"canvas-annotations"
+			],
+			[
+				"can",
+				"canvas-annotations"
+			],
+			[
+				"cont",
+				"containerId"
+			],
+			[
+				"checkB",
+				"checkBoxClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "node/main.js",
+			"settings":
+			{
+				"buffer_size": 1643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node/package.json",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/afronski/repository/ssied-projekt/preprocessing/Preprocessing.sublime-workspace",
+		"/home/afronski/repository/ssied-projekt/preprocessing/Preprocessing.sublime-project",
+		"/home/afronski/repository/ssied-projekt/preprocessing/datasets/webkb/student/misc/http_^^WWW.CS.Yale.EDU^homes^xiao^",
+		"/home/afronski/repository/ssied-projekt/preprocessing/datasets/webkb/course/cornell/http_^^cs.cornell.edu^Info^Courses^Current^CS415^CS414.html",
+		"/home/afronski/repository/ssied-projekt/preprocessing/node/two",
+		"/home/afronski/repository/ssied-projekt/preprocessing/node/one",
+		"/home/afronski/repository/ssied-projekt/preprocessing/datasets/webkb/course/cornell/http_^^cs.cornell.edu^Info^Courses^Spring-96^CS432^cs432.html",
+		"/home/afronski/repository/ssied-projekt/preprocessing/datasets/webkb/course/cornell/http_^^www.cs.cornell.edu^Info^People^tah^cs611.html",
+		"/home/afronski/repository/ssied-projekt/preprocessing/datasets/webkb/course/cornell/http_^^cs.cornell.edu^Info^Courses^Fall-95^CS415^CS415.html",
+		"/home/afronski/repository/ssied-projekt/preprocessing/node/package.json",
+		"/home/afronski/repository/ssied-projekt/preprocessing/rainbow/mutual-information.sh",
+		"/home/afronski/repository/ssied-projekt/preprocessing/rainbow/stats.sh",
+		"/home/afronski/repository/ssied-projekt/preprocessing/rainbow/rainbow.sh",
+		"/home/afronski/Work/KMD/trunk/tool/build/client-side/grunt.js",
+		"/home/afronski/Work/KMD/trunk/test/qunit/runners/handinEvaluationRunner.html",
+		"/home/afronski/Work/KMD/trunk/test/qunit/test-cases/handinCommonTestCases.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/public/js/utils/common.js",
+		"/home/afronski/Work/KMD/trunk/test/qunit/libs/phantomjs-polyfill.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/public/js/models/brush.js",
+		"/home/afronski/Work/KMD/trunk/test/qunit/test-cases/functionsTestCases.js",
+		"/home/afronski/Work/KMD/trunk/test/qunit/runners/functionsFooterRunner.html",
+		"/home/afronski/Work/KMD/trunk/test/qunit/test-cases/functionsFooterTestCases.js",
+		"/home/afronski/Work/KMD/trunk/test/qunit/runners/functionsRunner.html",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/Review.txt",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/transactionProcessingService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/parsingTransactionService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/parsingHistoryService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/cardStatusUpdateService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/cardVirtualImageUpdateService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/parsingCardService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/service/cardHistoryService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/models/Card.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/models/DataBlock.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/models/History.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/models/Transaction.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/dao/cardDao.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/dao/historyDao.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/db/odbcImpl.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/db/tediousImpl.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/db/sqliImpl.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/middleware.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/response.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/rest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/app.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/src/utils/log.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/transactionProcessingServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/parsingTransactionServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/parsingHistoryService.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/parsingCardServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/cardVirtualImageUpdateServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/cardStatusUpdateServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/cardHistoryServiceTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/dao/historyDaoTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/dao/cardDaoTest.js",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/Makefile",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/jeux_test/transactionXhtml.xml",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/development.yaml",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/integration.yaml",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/log4js-default.json",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/log4js-test.json",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/runtime.json",
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/default.yaml",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/public/js/handins.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/views/handins.html.twig",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/views/Teacher/evaluate_handin.html.twig",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/models/text-tool-view-model.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/models/annotation.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/assets/css/viewer.css",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/server/server.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/utils/common.js",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/frontend/index.html",
+		"/home/afronski/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/afronski/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/afronski/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/afronski/Work/KMD/trunk/provisioning/chef/cookbooks/jMeter/recipes/default.rb",
+		"/home/afronski/Work/KMD/trunk/edu/do/src/symfony/src/KMD/HandinBundle/Resources/public/css/handins.css",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/tool-palette.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/text-tool-view-model.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/text-tool-controls-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/color-picker-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/document-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/brush-and-eraser-controls-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/text-tool.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/eraser.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/index.html",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/utils/common.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/document-controls-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/controls-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/brush-controls-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/brush-control-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/annotation-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/assets/css/viewer.css",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/brush.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/document.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/views/text-tool-view.js",
+		"/home/afronski/Work/KMD/trunk/src/edu/src/KMD/HandinBundle/Resources/public/js/handins.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/annotation.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/server/server.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/models/color-picker.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/controllers/tool-palette.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/controllers/tool-pallete.js",
+		"/home/afronski/Work/KMD/trunk/src/edudo/annotations-frontend/controllers/tool-selector.js",
+		"/home/afronski/Work/KMD/trunk/deployment/chef/cookbooks/nagios/attributes/local.rb",
+		"/home/afronski/.ssh/wgawronski@fp_rsa.pub",
+		"/home/afronski/.ssh/wgawronski@fp_rsa",
+		"/home/afronski/Work/KMD/trunk/deployment/chef/cookbooks/nagios/attributes/local.rb.example",
+		"/home/afronski/Work/KMD/trunk/.project",
+		"/home/afronski/Work/KMD/local/annotations-poc/index.html",
+		"/home/afronski/Work/KMD/local/annotations-poc/views/annotation-view.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/views/controls-view.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/views/document-view.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/document.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/brush.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/annotation.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/text-tool.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/eraser.js",
+		"/home/afronski/.config/sublime-text-2/Packages/User/JavaScript/Backbone/bboneskeleton.sublime-snippet",
+		"/home/afronski/Work/KMD/local/annotations-poc/server/server.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/models/annotations.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/brush.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/viewer.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/assets/css/viewer.css",
+		"/home/afronski/Work/KMD/local/annotations-poc/views/document-viewer.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/viewer.css",
+		"/home/afronski/Work/KMD/local/annotations-poc/server.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/views/pdf-viewer.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/vendor/pdf.js",
+		"/home/afronski/Work/KMD/local/annotations-poc/pdf.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/home/afronski/Work/KMD/trunk/**/*.rb",
+			"<project> *.rb",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"die",
+			"  if (err) {\n    die(err);\n  }",
+			"setIfExists",
+			"pixelize",
+			"\"",
+			"'",
+			"DRAWING_CONTEXT_SELECTOR",
+			"L",
+			"drawingContext",
+			"ctx",
+			"BrushControlsView",
+			"baseLinePadding",
+			"BORDER_WIDTH",
+			"BORDER",
+			"this",
+			"SmallOffsetY",
+			"SmallOffsetX",
+			";\n",
+			"TextToolView",
+			"eraserState",
+			"onToolToggled",
+			"Tool",
+			"eraserToggledEl",
+			"eraserEnabledEl",
+			"'",
+			"pixel",
+			"object",
+			"ColorPicker",
+			"newAttributes",
+			"set",
+			"brush",
+			"actualTool",
+			"ToolSelectorController",
+			"ctx",
+			"event.target",
+			"event.targer",
+			"annotationReady",
+			"firstPage",
+			"presentDocument",
+			"page",
+			"annotationsView",
+			"\n                  var context = this.get(\"context\");\n\n                  this.context.lineWidth = ~~this.$brushWidth.val();\n                  this.context.strokeStyle = this.strokeColor;\n\n                  this.context.beginPath();\n                  this.context.moveTo(this.mouseX, this.mouseY);\n                  this.context.lineTo(mouseX, mouseY);\n                  this.context.stroke();\n\n                  this.mouseX = mouseX;\n                  this.mouseY = mouseY;\n                ",
+			"'",
+			"div",
+			"renderer",
+			"fileNameTextBox",
+			"getPage",
+			"getPageCount",
+			"clientY",
+			"clientX",
+			"'",
+			"canvas",
+			"'",
+			"grun",
+			"depends",
+			"load1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "node/main.js",
+					"settings":
+					{
+						"buffer_size": 1643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "node/package.json",
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true
+}

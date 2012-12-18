@@ -1,0 +1,17 @@
+{
+  "name": "node-4-universities",
+  "preferGlobal": "true",
+  "version": "0.1.0",
+  "author": "Wojciech Gawronski, Marcin Stoltmann, Grzegorz Grzywna, Dawid Dziurdzia",
+  "main": "./main.js",
+  "dependencies" : {
+    "natural":  "*",
+    "colors": "*",
+    "htmlparser": "*",
+    "glob": "*",
+    "optimist": "*"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}

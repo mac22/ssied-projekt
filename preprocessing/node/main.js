@@ -8,15 +8,25 @@ var fs = require("fs"),
     natural = require("natural"),
     glob = require("glob"),
     argv = require("optimist")
-            .usage("Usage: $0 [-C className] [--threshold 6.0] [-q] [-D]")
-            .boolean([ "q" ])
-            .default("C", "course")
+            .usage("Usage: $0 -C className [-L 5 [--threshold 0.9] [-q] [--omitNumbers] [-D] [--significantDigits 4]")
+            .boolean([ "q", "D", "omitNumbers" ])
+            .demand("C")
             .default("threshold", null)
+            .default("D", false)
+            .default("omitNumbers", false)
+            .default("q", false)
+            .default("L", 2)
+            .default("significantDigits", 6)
             .describe("q", "quiet output")
             .describe("D", "calculate TF-IDF per document")
-            .describe("threshold", "TF-IDF threshold filtering value")
+            .describe("threshold", "normalized TF-IDF threshold filtering value (max: 1.0)")
+            .describe("L", "minimal word length")
+            .describe("omitNumbers", "TF-IDF should omit all words with numbers")
+            .describe("significantDigits", "number of significant digits in TF-IDF")
             .describe("C", "class name")
             .argv,
+
+    defaultLength = argv.L || 2;
     util = require("util"),
 
     TfIdf = natural.TfIdf,
@@ -69,21 +79,46 @@ var fs = require("fs"),
       });
     },
 
+    isTermValid = function(term) {
+      if (term.length <= defaultLength) {
+        return false;
+      }
+
+      if (argv.omitNumbers && term.search(/[0-9]+/gi) !== -1) {
+        return false;
+      }
+
+      return true;
+    }
+
     calculateAndPrintTFIDF = function() {
+      var terms,
+          maxTfIdf = -1000.0;
+
       tfidf.addDocument(extractedText.join(" "));
-      tfidf.listTerms(0).forEach(function(element) {
-        var result = util.format("%s %d", element.term, element.tfidf);
+      terms = tfidf.listTerms(0);
 
-        if (!argv.q) {
-          result = result.green;
-        }
+      terms
+        .map(function(element) { if (isTermValid(element.term)) { return element.tfidf; } })
+        .filter(function(value) { maxTfIdf = value > maxTfIdf ? value : maxTfIdf; });
 
-        if (!!argv.threshold) {
-          if (element.tfidf > argv.threshold) {
+      terms.forEach(function(element) {
+        var normalizedTfIdf = parseFloat(element.tfidf / maxTfIdf);
+
+        if (isTermValid(element.term)) {
+          var result = util.format("%s %d", element.term, normalizedTfIdf.toFixed(argv.significantDigits));
+
+          if (!argv.q) {
+            result = result.green;
+          }
+
+          if (!!argv.threshold) {
+            if (normalizedTfIdf > argv.threshold) {
+              console.log(result);
+            }
+          } else {
             console.log(result);
           }
-        } else {
-          console.log(result);
         }
       });
     };

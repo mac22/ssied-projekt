@@ -8,9 +8,8 @@ var fs = require("fs"),
     natural = require("natural"),
     glob = require("glob"),
     argv = require("optimist")
-            .usage("Usage: $0 -C className [-L 5 [--threshold 0.9] [-q] [--omitNumbers] [-D] [--significantDigits 4]")
+            .usage("Usage: $0 -C className [-L 5 ] [--threshold 0.9] [-q] [--omitNumbers] [-D] [--significantDigits 4]")
             .boolean([ "q", "D", "omitNumbers" ])
-            .demand("C")
             .default("threshold", null)
             .default("D", false)
             .default("omitNumbers", false)

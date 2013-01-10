@@ -4,4 +4,8 @@ webkb/
 TFIDF-*
 datasets/
 output/
+bin/
+obj/
 *.pyc
+*.suo
+*.user

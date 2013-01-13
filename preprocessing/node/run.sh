@@ -40,11 +40,3 @@ node main.js -C student --omitNumbers -L $N -q    > dictionaries/TFIDF-student
 rm -f csv/*
 
 mono csv-converter.exe dictionaries/TFIDF-per-doc csv/CSV-per-doc
-
-mono csv-converter.exe dictionaries/TFIDF-course csv/CSV-course
-mono csv-converter.exe dictionaries/TFIDF-department csv/CSV-department
-mono csv-converter.exe dictionaries/TFIDF-faculty csv/CSV-faculty
-mono csv-converter.exe dictionaries/TFIDF-other csv/CSV-other
-mono csv-converter.exe dictionaries/TFIDF-project csv/CSV-project
-mono csv-converter.exe dictionaries/TFIDF-staff csv/CSV-staff
-mono csv-converter.exe dictionaries/TFIDF-student csv/CSV-student

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"spli",
+				"splitted_datasets"
+			],
+			[
 				"for",
 				"forLinting"
 			],
@@ -312,6 +316,12 @@
 	},
 	"file_history":
 	[
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/csv-converter/Document.cs",
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/csv-converter/Program.cs",
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/csv-converter/Enums.cs",
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/run.sh",
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/main.js",
+		"/home/afronski/Repositories/ssied-projekt/preprocessing/node/splitter.js",
 		"/media/documents/Work/KMD/KMD_Education/trunk/provisioning/chef/roles/build.dev.json",
 		"/media/documents/Work/KMD/KMD_Education/trunk/tool/build/client-side/Gruntfile.js",
 		"/media/documents/Work/KMD/KMD_Education/trunk/tool/build/client-side/package.json",
@@ -433,13 +443,7 @@
 		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/service/cardHistoryServiceTest.js",
 		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/dao/historyDaoTest.js",
 		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/dao/cardDaoTest.js",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/Makefile",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/test/jeux_test/transactionXhtml.xml",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/development.yaml",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/integration.yaml",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/log4js-default.json",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/log4js-test.json",
-		"/home/afronski/Dropbox/Work/TODO/CR/directory/config/runtime.json"
+		"/home/afronski/Dropbox/Work/TODO/CR/directory/Makefile"
 	],
 	"find":
 	{
@@ -463,6 +467,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ReadKey",
+			"IsNull",
+			"TryPa",
+			"directories",
+			"results",
+			"'",
 			"\\t",
 			"grunt",
 			"8888",
@@ -544,6 +554,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\"",
 			"  ",
 			"..",
 			"/media/documents/Work/KMD/KMD_Education/trunk",

@@ -1,0 +1,8 @@
+[ [ 'test', 0.2 ], [ 'training', 0.8 ] ]
+	@@@ ../datasets/webkb/course
+	@@@ ../datasets/webkb/department
+	@@@ ../datasets/webkb/faculty
+	@@@ ../datasets/webkb/other
+	@@@ ../datasets/webkb/project
+	@@@ ../datasets/webkb/staff
+	@@@ ../datasets/webkb/student

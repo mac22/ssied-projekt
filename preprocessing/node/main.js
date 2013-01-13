@@ -162,5 +162,3 @@ glob(util.format("./%s**/*", argv.D ? "splitted_datasets/test/" : util.format("s
     calculateAndPrintTFIDF();
   }
 });
-
-log("Extractor is running...".rainbow);

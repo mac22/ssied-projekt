@@ -95,5 +95,3 @@ glob(argv.src + "/*", argv.D, function (err, files) {
                                             });
                 });
 });
-
-log("Splitter is running...".rainbow);

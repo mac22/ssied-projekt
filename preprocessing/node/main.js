@@ -3,7 +3,12 @@
 
 require("colors");
 
-var fs = require("fs"),
+var popularWords = [
+      "computer",
+      "will"
+    ],
+
+    fs = require("fs"),
     htmlparser = require("htmlparser"),
     natural = require("natural"),
     glob = require("glob"),
@@ -83,6 +88,10 @@ var fs = require("fs"),
         return false;
       }
 
+      if (popularWords.indexOf(term) !== -1) {
+        return false;
+      }
+
       if (argv.omitNumbers && term.search(/[0-9]+/gi) !== -1) {
         return false;
       }
@@ -122,7 +131,7 @@ var fs = require("fs"),
       });
     };
 
-glob(util.format("../datasets/webkb/%s**/*", argv.D ? "" : util.format("%s/", argv.C)), function (err, files) {
+glob(util.format("./%s**/*", argv.D ? "splitted_datasets/test/" : util.format("splitted_datasets/training/%s/", argv.C)), function (err, files) {
   dieIfError(err);
 
   files.forEach(function(file) {
